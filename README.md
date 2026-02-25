@@ -1,4 +1,4 @@
-<img width="1292" height="530" alt="image" src="https://github.com/user-attachments/assets/18a981bd-f109-4547-81e5-1607a80c496e" /># BLENDED_LEARNING
+
 # Implementation of Ridge, Lasso, and ElasticNet Regularization for Predicting Car Price
 
 ## AIM:
